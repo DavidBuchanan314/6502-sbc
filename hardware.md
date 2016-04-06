@@ -1,0 +1,3 @@
+## Memory map:
+0x0000 - 0x7FFF : RAM (32k)
+0xC000 - 0xFFFF : ROM (16k)
